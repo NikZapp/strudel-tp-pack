@@ -1,5 +1,5 @@
 {
-  "_base": "http://localhost:8000/",
+  "_base": "https://raw.githubusercontent.com/NikZapp/strudel-tp-pack/samples/",
   "a": "a/a175.wav",
   "an": "an/an175.wav",
   "e": "e/e175.wav",
