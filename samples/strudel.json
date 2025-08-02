@@ -1,95 +1,831 @@
 {
   "_base": "https://raw.githubusercontent.com/NikZapp/strudel-tp-pack/main/samples/",
-  "a": "a/a175.wav",
-  "an": "an/an175.wav",
-  "e": "e/e175.wav",
-  "en": "en/en175.wav",
-  "i": "i/i175.wav",
-  "in": "in/in175.wav",
-  "ja": "ja/ja175.wav",
-  "jan": "jan/jan175.wav",
-  "je": "je/je175.wav",
-  "jen": "jen/jen175.wav",
-  "jo": "jo/jo175.wav",
-  "jon": "jon/jon175.wav",
-  "ju": "ju/ju175.wav",
-  "jun": "jun/jun175.wav",
-  "ka": "ka/ka175.wav",
-  "kan": "kan/kan175.wav",
-  "ke": "ke/ke175.wav",
-  "ken": "ken/ken175.wav",
-  "ki": "ki/ki175.wav",
-  "kin": "kin/kin175.wav",
-  "ko": "ko/ko175.wav",
-  "kon": "kon/kon175.wav",
-  "ku": "ku/ku175.wav",
-  "kun": "kun/kun175.wav",
-  "la": "la/la175.wav",
-  "lan": "lan/lan175.wav",
-  "le": "le/le175.wav",
-  "len": "len/len175.wav",
-  "li": "li/li175.wav",
-  "lin": "lin/lin175.wav",
-  "lo": "lo/lo175.wav",
-  "lon": "lon/lon175.wav",
-  "lu": "lu/lu175.wav",
-  "lun": "lun/lun175.wav",
-  "ma": "ma/ma175.wav",
-  "man": "man/man175.wav",
-  "me": "me/me175.wav",
-  "men": "men/men175.wav",
-  "mi": "mi/mi175.wav",
-  "min": "min/min175.wav",
-  "mo": "mo/mo175.wav",
-  "mon": "mon/mon175.wav",
-  "mu": "mu/mu175.wav",
-  "mun": "mun/mun175.wav",
-  "na": "na/na175.wav",
-  "nan": "nan/nan175.wav",
-  "ne": "ne/ne175.wav",
-  "nen": "nen/nen175.wav",
-  "ni": "ni/ni175.wav",
-  "nin": "nin/nin175.wav",
-  "no": "no/no175.wav",
-  "non": "non/non175.wav",
-  "nu": "nu/nu175.wav",
-  "nun": "nun/nun175.wav",
-  "o": "o/o175.wav",
-  "on": "on/on175.wav",
-  "pa": "pa/pa175.wav",
-  "pan": "pan/pan175.wav",
-  "pe": "pe/pe175.wav",
-  "pen": "pen/pen175.wav",
-  "pi": "pi/pi175.wav",
-  "pin": "pin/pin175.wav",
-  "po": "po/po175.wav",
-  "pon": "pon/pon175.wav",
-  "pu": "pu/pu175.wav",
-  "pun": "pun/pun175.wav",
-  "sa": "sa/sa175.wav",
-  "san": "san/san175.wav",
-  "se": "se/se175.wav",
-  "sen": "sen/sen175.wav",
-  "si": "si/si175.wav",
-  "sin": "sin/sin175.wav",
-  "so": "so/so175.wav",
-  "son": "son/son175.wav",
-  "su": "su/su175.wav",
-  "sun": "sun/sun175.wav",
-  "ta": "ta/ta175.wav",
-  "tan": "tan/tan175.wav",
-  "te": "te/te175.wav",
-  "ten": "ten/ten175.wav",
-  "to": "to/to175.wav",
-  "ton": "ton/ton175.wav",
-  "tu": "tu/tu175.wav",
-  "tun": "tun/tun175.wav",
-  "u": "u/u175.wav",
-  "un": "un/un175.wav",
-  "wa": "wa/wa175.wav",
-  "wan": "wan/wan175.wav",
-  "we": "we/we175.wav",
-  "wen": "wen/wen175.wav",
-  "wi": "wi/wi175.wav",
-  "win": "win/win175.wav"
+  "a": {
+    "b1": "a/ab1.wav",
+    "c2": "a/ac2.wav",
+    "e2": "a/ae2.wav",
+    "g2": "a/ag2.wav",
+    "b2": "a/ab2.wav",
+    "c3": "a/ac3.wav",
+    "e3": "a/ae3.wav"
+  },
+  "an": {
+    "b1": "an/anb1.wav",
+    "c2": "an/anc2.wav",
+    "e2": "an/ane2.wav",
+    "g2": "an/ang2.wav",
+    "b2": "an/anb2.wav",
+    "c3": "an/anc3.wav",
+    "e3": "an/ane3.wav"
+  },
+  "e": {
+    "b1": "e/eb1.wav",
+    "c2": "e/ec2.wav",
+    "e2": "e/ee2.wav",
+    "g2": "e/eg2.wav",
+    "b2": "e/eb2.wav",
+    "c3": "e/ec3.wav",
+    "e3": "e/ee3.wav"
+  },
+  "en": {
+    "b1": "en/enb1.wav",
+    "c2": "en/enc2.wav",
+    "e2": "en/ene2.wav",
+    "g2": "en/eng2.wav",
+    "b2": "en/enb2.wav",
+    "c3": "en/enc3.wav",
+    "e3": "en/ene3.wav"
+  },
+  "i": {
+    "b1": "i/ib1.wav",
+    "c2": "i/ic2.wav",
+    "e2": "i/ie2.wav",
+    "g2": "i/ig2.wav",
+    "b2": "i/ib2.wav",
+    "c3": "i/ic3.wav",
+    "e3": "i/ie3.wav"
+  },
+  "in": {
+    "b1": "in/inb1.wav",
+    "c2": "in/inc2.wav",
+    "e2": "in/ine2.wav",
+    "g2": "in/ing2.wav",
+    "b2": "in/inb2.wav",
+    "c3": "in/inc3.wav",
+    "e3": "in/ine3.wav"
+  },
+  "ja": {
+    "b1": "ja/jab1.wav",
+    "c2": "ja/jac2.wav",
+    "e2": "ja/jae2.wav",
+    "g2": "ja/jag2.wav",
+    "b2": "ja/jab2.wav",
+    "c3": "ja/jac3.wav",
+    "e3": "ja/jae3.wav"
+  },
+  "jan": {
+    "b1": "jan/janb1.wav",
+    "c2": "jan/janc2.wav",
+    "e2": "jan/jane2.wav",
+    "g2": "jan/jang2.wav",
+    "b2": "jan/janb2.wav",
+    "c3": "jan/janc3.wav",
+    "e3": "jan/jane3.wav"
+  },
+  "je": {
+    "b1": "je/jeb1.wav",
+    "c2": "je/jec2.wav",
+    "e2": "je/jee2.wav",
+    "g2": "je/jeg2.wav",
+    "b2": "je/jeb2.wav",
+    "c3": "je/jec3.wav",
+    "e3": "je/jee3.wav"
+  },
+  "jen": {
+    "b1": "jen/jenb1.wav",
+    "c2": "jen/jenc2.wav",
+    "e2": "jen/jene2.wav",
+    "g2": "jen/jeng2.wav",
+    "b2": "jen/jenb2.wav",
+    "c3": "jen/jenc3.wav",
+    "e3": "jen/jene3.wav"
+  },
+  "jo": {
+    "b1": "jo/job1.wav",
+    "c2": "jo/joc2.wav",
+    "e2": "jo/joe2.wav",
+    "g2": "jo/jog2.wav",
+    "b2": "jo/job2.wav",
+    "c3": "jo/joc3.wav",
+    "e3": "jo/joe3.wav"
+  },
+  "jon": {
+    "b1": "jon/jonb1.wav",
+    "c2": "jon/jonc2.wav",
+    "e2": "jon/jone2.wav",
+    "g2": "jon/jong2.wav",
+    "b2": "jon/jonb2.wav",
+    "c3": "jon/jonc3.wav",
+    "e3": "jon/jone3.wav"
+  },
+  "ju": {
+    "b1": "ju/jub1.wav",
+    "c2": "ju/juc2.wav",
+    "e2": "ju/jue2.wav",
+    "g2": "ju/jug2.wav",
+    "b2": "ju/jub2.wav",
+    "c3": "ju/juc3.wav",
+    "e3": "ju/jue3.wav"
+  },
+  "jun": {
+    "b1": "jun/junb1.wav",
+    "c2": "jun/junc2.wav",
+    "e2": "jun/june2.wav",
+    "g2": "jun/jung2.wav",
+    "b2": "jun/junb2.wav",
+    "c3": "jun/junc3.wav",
+    "e3": "jun/june3.wav"
+  },
+  "ka": {
+    "b1": "ka/kab1.wav",
+    "c2": "ka/kac2.wav",
+    "e2": "ka/kae2.wav",
+    "g2": "ka/kag2.wav",
+    "b2": "ka/kab2.wav",
+    "c3": "ka/kac3.wav",
+    "e3": "ka/kae3.wav"
+  },
+  "kan": {
+    "b1": "kan/kanb1.wav",
+    "c2": "kan/kanc2.wav",
+    "e2": "kan/kane2.wav",
+    "g2": "kan/kang2.wav",
+    "b2": "kan/kanb2.wav",
+    "c3": "kan/kanc3.wav",
+    "e3": "kan/kane3.wav"
+  },
+  "ke": {
+    "b1": "ke/keb1.wav",
+    "c2": "ke/kec2.wav",
+    "e2": "ke/kee2.wav",
+    "g2": "ke/keg2.wav",
+    "b2": "ke/keb2.wav",
+    "c3": "ke/kec3.wav",
+    "e3": "ke/kee3.wav"
+  },
+  "ken": {
+    "b1": "ken/kenb1.wav",
+    "c2": "ken/kenc2.wav",
+    "e2": "ken/kene2.wav",
+    "g2": "ken/keng2.wav",
+    "b2": "ken/kenb2.wav",
+    "c3": "ken/kenc3.wav",
+    "e3": "ken/kene3.wav"
+  },
+  "ki": {
+    "b1": "ki/kib1.wav",
+    "c2": "ki/kic2.wav",
+    "e2": "ki/kie2.wav",
+    "g2": "ki/kig2.wav",
+    "b2": "ki/kib2.wav",
+    "c3": "ki/kic3.wav",
+    "e3": "ki/kie3.wav"
+  },
+  "kin": {
+    "b1": "kin/kinb1.wav",
+    "c2": "kin/kinc2.wav",
+    "e2": "kin/kine2.wav",
+    "g2": "kin/king2.wav",
+    "b2": "kin/kinb2.wav",
+    "c3": "kin/kinc3.wav",
+    "e3": "kin/kine3.wav"
+  },
+  "ko": {
+    "b1": "ko/kob1.wav",
+    "c2": "ko/koc2.wav",
+    "e2": "ko/koe2.wav",
+    "g2": "ko/kog2.wav",
+    "b2": "ko/kob2.wav",
+    "c3": "ko/koc3.wav",
+    "e3": "ko/koe3.wav"
+  },
+  "kon": {
+    "b1": "kon/konb1.wav",
+    "c2": "kon/konc2.wav",
+    "e2": "kon/kone2.wav",
+    "g2": "kon/kong2.wav",
+    "b2": "kon/konb2.wav",
+    "c3": "kon/konc3.wav",
+    "e3": "kon/kone3.wav"
+  },
+  "ku": {
+    "b1": "ku/kub1.wav",
+    "c2": "ku/kuc2.wav",
+    "e2": "ku/kue2.wav",
+    "g2": "ku/kug2.wav",
+    "b2": "ku/kub2.wav",
+    "c3": "ku/kuc3.wav",
+    "e3": "ku/kue3.wav"
+  },
+  "kun": {
+    "b1": "kun/kunb1.wav",
+    "c2": "kun/kunc2.wav",
+    "e2": "kun/kune2.wav",
+    "g2": "kun/kung2.wav",
+    "b2": "kun/kunb2.wav",
+    "c3": "kun/kunc3.wav",
+    "e3": "kun/kune3.wav"
+  },
+  "la": {
+    "b1": "la/lab1.wav",
+    "c2": "la/lac2.wav",
+    "e2": "la/lae2.wav",
+    "g2": "la/lag2.wav",
+    "b2": "la/lab2.wav",
+    "c3": "la/lac3.wav",
+    "e3": "la/lae3.wav"
+  },
+  "lan": {
+    "b1": "lan/lanb1.wav",
+    "c2": "lan/lanc2.wav",
+    "e2": "lan/lane2.wav",
+    "g2": "lan/lang2.wav",
+    "b2": "lan/lanb2.wav",
+    "c3": "lan/lanc3.wav",
+    "e3": "lan/lane3.wav"
+  },
+  "le": {
+    "b1": "le/leb1.wav",
+    "c2": "le/lec2.wav",
+    "e2": "le/lee2.wav",
+    "g2": "le/leg2.wav",
+    "b2": "le/leb2.wav",
+    "c3": "le/lec3.wav",
+    "e3": "le/lee3.wav"
+  },
+  "len": {
+    "b1": "len/lenb1.wav",
+    "c2": "len/lenc2.wav",
+    "e2": "len/lene2.wav",
+    "g2": "len/leng2.wav",
+    "b2": "len/lenb2.wav",
+    "c3": "len/lenc3.wav",
+    "e3": "len/lene3.wav"
+  },
+  "li": {
+    "b1": "li/lib1.wav",
+    "c2": "li/lic2.wav",
+    "e2": "li/lie2.wav",
+    "g2": "li/lig2.wav",
+    "b2": "li/lib2.wav",
+    "c3": "li/lic3.wav",
+    "e3": "li/lie3.wav"
+  },
+  "lin": {
+    "b1": "lin/linb1.wav",
+    "c2": "lin/linc2.wav",
+    "e2": "lin/line2.wav",
+    "g2": "lin/ling2.wav",
+    "b2": "lin/linb2.wav",
+    "c3": "lin/linc3.wav",
+    "e3": "lin/line3.wav"
+  },
+  "lo": {
+    "b1": "lo/lob1.wav",
+    "c2": "lo/loc2.wav",
+    "e2": "lo/loe2.wav",
+    "g2": "lo/log2.wav",
+    "b2": "lo/lob2.wav",
+    "c3": "lo/loc3.wav",
+    "e3": "lo/loe3.wav"
+  },
+  "lon": {
+    "b1": "lon/lonb1.wav",
+    "c2": "lon/lonc2.wav",
+    "e2": "lon/lone2.wav",
+    "g2": "lon/long2.wav",
+    "b2": "lon/lonb2.wav",
+    "c3": "lon/lonc3.wav",
+    "e3": "lon/lone3.wav"
+  },
+  "lu": {
+    "b1": "lu/lub1.wav",
+    "c2": "lu/luc2.wav",
+    "e2": "lu/lue2.wav",
+    "g2": "lu/lug2.wav",
+    "b2": "lu/lub2.wav",
+    "c3": "lu/luc3.wav",
+    "e3": "lu/lue3.wav"
+  },
+  "lun": {
+    "b1": "lun/lunb1.wav",
+    "c2": "lun/lunc2.wav",
+    "e2": "lun/lune2.wav",
+    "g2": "lun/lung2.wav",
+    "b2": "lun/lunb2.wav",
+    "c3": "lun/lunc3.wav",
+    "e3": "lun/lune3.wav"
+  },
+  "ma": {
+    "b1": "ma/mab1.wav",
+    "c2": "ma/mac2.wav",
+    "e2": "ma/mae2.wav",
+    "g2": "ma/mag2.wav",
+    "b2": "ma/mab2.wav",
+    "c3": "ma/mac3.wav",
+    "e3": "ma/mae3.wav"
+  },
+  "man": {
+    "b1": "man/manb1.wav",
+    "c2": "man/manc2.wav",
+    "e2": "man/mane2.wav",
+    "g2": "man/mang2.wav",
+    "b2": "man/manb2.wav",
+    "c3": "man/manc3.wav",
+    "e3": "man/mane3.wav"
+  },
+  "me": {
+    "b1": "me/meb1.wav",
+    "c2": "me/mec2.wav",
+    "e2": "me/mee2.wav",
+    "g2": "me/meg2.wav",
+    "b2": "me/meb2.wav",
+    "c3": "me/mec3.wav",
+    "e3": "me/mee3.wav"
+  },
+  "men": {
+    "b1": "men/menb1.wav",
+    "c2": "men/menc2.wav",
+    "e2": "men/mene2.wav",
+    "g2": "men/meng2.wav",
+    "b2": "men/menb2.wav",
+    "c3": "men/menc3.wav",
+    "e3": "men/mene3.wav"
+  },
+  "mi": {
+    "b1": "mi/mib1.wav",
+    "c2": "mi/mic2.wav",
+    "e2": "mi/mie2.wav",
+    "g2": "mi/mig2.wav",
+    "b2": "mi/mib2.wav",
+    "c3": "mi/mic3.wav",
+    "e3": "mi/mie3.wav"
+  },
+  "min": {
+    "b1": "min/minb1.wav",
+    "c2": "min/minc2.wav",
+    "e2": "min/mine2.wav",
+    "g2": "min/ming2.wav",
+    "b2": "min/minb2.wav",
+    "c3": "min/minc3.wav",
+    "e3": "min/mine3.wav"
+  },
+  "mo": {
+    "b1": "mo/mob1.wav",
+    "c2": "mo/moc2.wav",
+    "e2": "mo/moe2.wav",
+    "g2": "mo/mog2.wav",
+    "b2": "mo/mob2.wav",
+    "c3": "mo/moc3.wav",
+    "e3": "mo/moe3.wav"
+  },
+  "mon": {
+    "b1": "mon/monb1.wav",
+    "c2": "mon/monc2.wav",
+    "e2": "mon/mone2.wav",
+    "g2": "mon/mong2.wav",
+    "b2": "mon/monb2.wav",
+    "c3": "mon/monc3.wav",
+    "e3": "mon/mone3.wav"
+  },
+  "mu": {
+    "b1": "mu/mub1.wav",
+    "c2": "mu/muc2.wav",
+    "e2": "mu/mue2.wav",
+    "g2": "mu/mug2.wav",
+    "b2": "mu/mub2.wav",
+    "c3": "mu/muc3.wav",
+    "e3": "mu/mue3.wav"
+  },
+  "mun": {
+    "b1": "mun/munb1.wav",
+    "c2": "mun/munc2.wav",
+    "e2": "mun/mune2.wav",
+    "g2": "mun/mung2.wav",
+    "b2": "mun/munb2.wav",
+    "c3": "mun/munc3.wav",
+    "e3": "mun/mune3.wav"
+  },
+  "na": {
+    "b1": "na/nab1.wav",
+    "c2": "na/nac2.wav",
+    "e2": "na/nae2.wav",
+    "g2": "na/nag2.wav",
+    "b2": "na/nab2.wav",
+    "c3": "na/nac3.wav",
+    "e3": "na/nae3.wav"
+  },
+  "nan": {
+    "b1": "nan/nanb1.wav",
+    "c2": "nan/nanc2.wav",
+    "e2": "nan/nane2.wav",
+    "g2": "nan/nang2.wav",
+    "b2": "nan/nanb2.wav",
+    "c3": "nan/nanc3.wav",
+    "e3": "nan/nane3.wav"
+  },
+  "ne": {
+    "b1": "ne/neb1.wav",
+    "c2": "ne/nec2.wav",
+    "e2": "ne/nee2.wav",
+    "g2": "ne/neg2.wav",
+    "b2": "ne/neb2.wav",
+    "c3": "ne/nec3.wav",
+    "e3": "ne/nee3.wav"
+  },
+  "nen": {
+    "b1": "nen/nenb1.wav",
+    "c2": "nen/nenc2.wav",
+    "e2": "nen/nene2.wav",
+    "g2": "nen/neng2.wav",
+    "b2": "nen/nenb2.wav",
+    "c3": "nen/nenc3.wav",
+    "e3": "nen/nene3.wav"
+  },
+  "ni": {
+    "b1": "ni/nib1.wav",
+    "c2": "ni/nic2.wav",
+    "e2": "ni/nie2.wav",
+    "g2": "ni/nig2.wav",
+    "b2": "ni/nib2.wav",
+    "c3": "ni/nic3.wav",
+    "e3": "ni/nie3.wav"
+  },
+  "nin": {
+    "b1": "nin/ninb1.wav",
+    "c2": "nin/ninc2.wav",
+    "e2": "nin/nine2.wav",
+    "g2": "nin/ning2.wav",
+    "b2": "nin/ninb2.wav",
+    "c3": "nin/ninc3.wav",
+    "e3": "nin/nine3.wav"
+  },
+  "no": {
+    "b1": "no/nob1.wav",
+    "c2": "no/noc2.wav",
+    "e2": "no/noe2.wav",
+    "g2": "no/nog2.wav",
+    "b2": "no/nob2.wav",
+    "c3": "no/noc3.wav",
+    "e3": "no/noe3.wav"
+  },
+  "non": {
+    "b1": "non/nonb1.wav",
+    "c2": "non/nonc2.wav",
+    "e2": "non/none2.wav",
+    "g2": "non/nong2.wav",
+    "b2": "non/nonb2.wav",
+    "c3": "non/nonc3.wav",
+    "e3": "non/none3.wav"
+  },
+  "nu": {
+    "b1": "nu/nub1.wav",
+    "c2": "nu/nuc2.wav",
+    "e2": "nu/nue2.wav",
+    "g2": "nu/nug2.wav",
+    "b2": "nu/nub2.wav",
+    "c3": "nu/nuc3.wav",
+    "e3": "nu/nue3.wav"
+  },
+  "nun": {
+    "b1": "nun/nunb1.wav",
+    "c2": "nun/nunc2.wav",
+    "e2": "nun/nune2.wav",
+    "g2": "nun/nung2.wav",
+    "b2": "nun/nunb2.wav",
+    "c3": "nun/nunc3.wav",
+    "e3": "nun/nune3.wav"
+  },
+  "o": {
+    "b1": "o/ob1.wav",
+    "c2": "o/oc2.wav",
+    "e2": "o/oe2.wav",
+    "g2": "o/og2.wav",
+    "b2": "o/ob2.wav",
+    "c3": "o/oc3.wav",
+    "e3": "o/oe3.wav"
+  },
+  "on": {
+    "b1": "on/onb1.wav",
+    "c2": "on/onc2.wav",
+    "e2": "on/one2.wav",
+    "g2": "on/ong2.wav",
+    "b2": "on/onb2.wav",
+    "c3": "on/onc3.wav",
+    "e3": "on/one3.wav"
+  },
+  "pa": {
+    "b1": "pa/pab1.wav",
+    "c2": "pa/pac2.wav",
+    "e2": "pa/pae2.wav",
+    "g2": "pa/pag2.wav",
+    "b2": "pa/pab2.wav",
+    "c3": "pa/pac3.wav",
+    "e3": "pa/pae3.wav"
+  },
+  "pan": {
+    "b1": "pan/panb1.wav",
+    "c2": "pan/panc2.wav",
+    "e2": "pan/pane2.wav",
+    "g2": "pan/pang2.wav",
+    "b2": "pan/panb2.wav",
+    "c3": "pan/panc3.wav",
+    "e3": "pan/pane3.wav"
+  },
+  "pe": {
+    "b1": "pe/peb1.wav",
+    "c2": "pe/pec2.wav",
+    "e2": "pe/pee2.wav",
+    "g2": "pe/peg2.wav",
+    "b2": "pe/peb2.wav",
+    "c3": "pe/pec3.wav",
+    "e3": "pe/pee3.wav"
+  },
+  "pen": {
+    "b1": "pen/penb1.wav",
+    "c2": "pen/penc2.wav",
+    "e2": "pen/pene2.wav",
+    "g2": "pen/peng2.wav",
+    "b2": "pen/penb2.wav",
+    "c3": "pen/penc3.wav",
+    "e3": "pen/pene3.wav"
+  },
+  "pi": {
+    "b1": "pi/pib1.wav",
+    "c2": "pi/pic2.wav",
+    "e2": "pi/pie2.wav",
+    "g2": "pi/pig2.wav",
+    "b2": "pi/pib2.wav",
+    "c3": "pi/pic3.wav",
+    "e3": "pi/pie3.wav"
+  },
+  "pin": {
+    "b1": "pin/pinb1.wav",
+    "c2": "pin/pinc2.wav",
+    "e2": "pin/pine2.wav",
+    "g2": "pin/ping2.wav",
+    "b2": "pin/pinb2.wav",
+    "c3": "pin/pinc3.wav",
+    "e3": "pin/pine3.wav"
+  },
+  "po": {
+    "b1": "po/pob1.wav",
+    "c2": "po/poc2.wav",
+    "e2": "po/poe2.wav",
+    "g2": "po/pog2.wav",
+    "b2": "po/pob2.wav",
+    "c3": "po/poc3.wav",
+    "e3": "po/poe3.wav"
+  },
+  "pon": {
+    "b1": "pon/ponb1.wav",
+    "c2": "pon/ponc2.wav",
+    "e2": "pon/pone2.wav",
+    "g2": "pon/pong2.wav",
+    "b2": "pon/ponb2.wav",
+    "c3": "pon/ponc3.wav",
+    "e3": "pon/pone3.wav"
+  },
+  "pu": {
+    "b1": "pu/pub1.wav",
+    "c2": "pu/puc2.wav",
+    "e2": "pu/pue2.wav",
+    "g2": "pu/pug2.wav",
+    "b2": "pu/pub2.wav",
+    "c3": "pu/puc3.wav",
+    "e3": "pu/pue3.wav"
+  },
+  "pun": {
+    "b1": "pun/punb1.wav",
+    "c2": "pun/punc2.wav",
+    "e2": "pun/pune2.wav",
+    "g2": "pun/pung2.wav",
+    "b2": "pun/punb2.wav",
+    "c3": "pun/punc3.wav",
+    "e3": "pun/pune3.wav"
+  },
+  "sa": {
+    "b1": "sa/sab1.wav",
+    "c2": "sa/sac2.wav",
+    "e2": "sa/sae2.wav",
+    "g2": "sa/sag2.wav",
+    "b2": "sa/sab2.wav",
+    "c3": "sa/sac3.wav",
+    "e3": "sa/sae3.wav"
+  },
+  "san": {
+    "b1": "san/sanb1.wav",
+    "c2": "san/sanc2.wav",
+    "e2": "san/sane2.wav",
+    "g2": "san/sang2.wav",
+    "b2": "san/sanb2.wav",
+    "c3": "san/sanc3.wav",
+    "e3": "san/sane3.wav"
+  },
+  "se": {
+    "b1": "se/seb1.wav",
+    "c2": "se/sec2.wav",
+    "e2": "se/see2.wav",
+    "g2": "se/seg2.wav",
+    "b2": "se/seb2.wav",
+    "c3": "se/sec3.wav",
+    "e3": "se/see3.wav"
+  },
+  "sen": {
+    "b1": "sen/senb1.wav",
+    "c2": "sen/senc2.wav",
+    "e2": "sen/sene2.wav",
+    "g2": "sen/seng2.wav",
+    "b2": "sen/senb2.wav",
+    "c3": "sen/senc3.wav",
+    "e3": "sen/sene3.wav"
+  },
+  "si": {
+    "b1": "si/sib1.wav",
+    "c2": "si/sic2.wav",
+    "e2": "si/sie2.wav",
+    "g2": "si/sig2.wav",
+    "b2": "si/sib2.wav",
+    "c3": "si/sic3.wav",
+    "e3": "si/sie3.wav"
+  },
+  "sin": {
+    "b1": "sin/sinb1.wav",
+    "c2": "sin/sinc2.wav",
+    "e2": "sin/sine2.wav",
+    "g2": "sin/sing2.wav",
+    "b2": "sin/sinb2.wav",
+    "c3": "sin/sinc3.wav",
+    "e3": "sin/sine3.wav"
+  },
+  "so": {
+    "b1": "so/sob1.wav",
+    "c2": "so/soc2.wav",
+    "e2": "so/soe2.wav",
+    "g2": "so/sog2.wav",
+    "b2": "so/sob2.wav",
+    "c3": "so/soc3.wav",
+    "e3": "so/soe3.wav"
+  },
+  "son": {
+    "b1": "son/sonb1.wav",
+    "c2": "son/sonc2.wav",
+    "e2": "son/sone2.wav",
+    "g2": "son/song2.wav",
+    "b2": "son/sonb2.wav",
+    "c3": "son/sonc3.wav",
+    "e3": "son/sone3.wav"
+  },
+  "su": {
+    "b1": "su/sub1.wav",
+    "c2": "su/suc2.wav",
+    "e2": "su/sue2.wav",
+    "g2": "su/sug2.wav",
+    "b2": "su/sub2.wav",
+    "c3": "su/suc3.wav",
+    "e3": "su/sue3.wav"
+  },
+  "sun": {
+    "b1": "sun/sunb1.wav",
+    "c2": "sun/sunc2.wav",
+    "e2": "sun/sune2.wav",
+    "g2": "sun/sung2.wav",
+    "b2": "sun/sunb2.wav",
+    "c3": "sun/sunc3.wav",
+    "e3": "sun/sune3.wav"
+  },
+  "ta": {
+    "b1": "ta/tab1.wav",
+    "c2": "ta/tac2.wav",
+    "e2": "ta/tae2.wav",
+    "g2": "ta/tag2.wav",
+    "b2": "ta/tab2.wav",
+    "c3": "ta/tac3.wav",
+    "e3": "ta/tae3.wav"
+  },
+  "tan": {
+    "b1": "tan/tanb1.wav",
+    "c2": "tan/tanc2.wav",
+    "e2": "tan/tane2.wav",
+    "g2": "tan/tang2.wav",
+    "b2": "tan/tanb2.wav",
+    "c3": "tan/tanc3.wav",
+    "e3": "tan/tane3.wav"
+  },
+  "te": {
+    "b1": "te/teb1.wav",
+    "c2": "te/tec2.wav",
+    "e2": "te/tee2.wav",
+    "g2": "te/teg2.wav",
+    "b2": "te/teb2.wav",
+    "c3": "te/tec3.wav",
+    "e3": "te/tee3.wav"
+  },
+  "ten": {
+    "b1": "ten/tenb1.wav",
+    "c2": "ten/tenc2.wav",
+    "e2": "ten/tene2.wav",
+    "g2": "ten/teng2.wav",
+    "b2": "ten/tenb2.wav",
+    "c3": "ten/tenc3.wav",
+    "e3": "ten/tene3.wav"
+  },
+  "to": {
+    "b1": "to/tob1.wav",
+    "c2": "to/toc2.wav",
+    "e2": "to/toe2.wav",
+    "g2": "to/tog2.wav",
+    "b2": "to/tob2.wav",
+    "c3": "to/toc3.wav",
+    "e3": "to/toe3.wav"
+  },
+  "ton": {
+    "b1": "ton/tonb1.wav",
+    "c2": "ton/tonc2.wav",
+    "e2": "ton/tone2.wav",
+    "g2": "ton/tong2.wav",
+    "b2": "ton/tonb2.wav",
+    "c3": "ton/tonc3.wav",
+    "e3": "ton/tone3.wav"
+  },
+  "tu": {
+    "b1": "tu/tub1.wav",
+    "c2": "tu/tuc2.wav",
+    "e2": "tu/tue2.wav",
+    "g2": "tu/tug2.wav",
+    "b2": "tu/tub2.wav",
+    "c3": "tu/tuc3.wav",
+    "e3": "tu/tue3.wav"
+  },
+  "tun": {
+    "b1": "tun/tunb1.wav",
+    "c2": "tun/tunc2.wav",
+    "e2": "tun/tune2.wav",
+    "g2": "tun/tung2.wav",
+    "b2": "tun/tunb2.wav",
+    "c3": "tun/tunc3.wav",
+    "e3": "tun/tune3.wav"
+  },
+  "u": {
+    "b1": "u/ub1.wav",
+    "c2": "u/uc2.wav",
+    "e2": "u/ue2.wav",
+    "g2": "u/ug2.wav",
+    "b2": "u/ub2.wav",
+    "c3": "u/uc3.wav",
+    "e3": "u/ue3.wav"
+  },
+  "un": {
+    "b1": "un/unb1.wav",
+    "c2": "un/unc2.wav",
+    "e2": "un/une2.wav",
+    "g2": "un/ung2.wav",
+    "b2": "un/unb2.wav",
+    "c3": "un/unc3.wav",
+    "e3": "un/une3.wav"
+  },
+  "wa": {
+    "b1": "wa/wab1.wav",
+    "c2": "wa/wac2.wav",
+    "e2": "wa/wae2.wav",
+    "g2": "wa/wag2.wav",
+    "b2": "wa/wab2.wav",
+    "c3": "wa/wac3.wav",
+    "e3": "wa/wae3.wav"
+  },
+  "wan": {
+    "b1": "wan/wanb1.wav",
+    "c2": "wan/wanc2.wav",
+    "e2": "wan/wane2.wav",
+    "g2": "wan/wang2.wav",
+    "b2": "wan/wanb2.wav",
+    "c3": "wan/wanc3.wav",
+    "e3": "wan/wane3.wav"
+  },
+  "we": {
+    "b1": "we/web1.wav",
+    "c2": "we/wec2.wav",
+    "e2": "we/wee2.wav",
+    "g2": "we/weg2.wav",
+    "b2": "we/web2.wav",
+    "c3": "we/wec3.wav",
+    "e3": "we/wee3.wav"
+  },
+  "wen": {
+    "b1": "wen/wenb1.wav",
+    "c2": "wen/wenc2.wav",
+    "e2": "wen/wene2.wav",
+    "g2": "wen/weng2.wav",
+    "b2": "wen/wenb2.wav",
+    "c3": "wen/wenc3.wav",
+    "e3": "wen/wene3.wav"
+  },
+  "wi": {
+    "b1": "wi/wib1.wav",
+    "c2": "wi/wic2.wav",
+    "e2": "wi/wie2.wav",
+    "g2": "wi/wig2.wav",
+    "b2": "wi/wib2.wav",
+    "c3": "wi/wic3.wav",
+    "e3": "wi/wie3.wav"
+  },
+  "win": {
+    "b1": "win/winb1.wav",
+    "c2": "win/winc2.wav",
+    "e2": "win/wine2.wav",
+    "g2": "win/wing2.wav",
+    "b2": "win/winb2.wav",
+    "c3": "win/winc3.wav",
+    "e3": "win/wine3.wav"
+  }
 }
